@@ -46,3 +46,7 @@ Key Findings
 📌 Longer lead times often lead to higher cancellations.
 📌 Peak season trends show increased demand during summer.
 
+📧 Contact
+
+For any questions or suggestions, feel free to connect!
+
