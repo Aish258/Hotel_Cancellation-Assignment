@@ -1,4 +1,4 @@
-# Hotel_bookings-Assignment
+# Hotel_Cancellation-Assignment
 Hotel Booking Analysis 📊🏨
 Project Overview
 This project analyzes hotel booking data to identify trends, customer preferences, and factors affecting cancellations. Using advanced excel. We explore patterns in booking behavior and provide insights for hotel management.
